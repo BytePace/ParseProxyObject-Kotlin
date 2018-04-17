@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParseProxyObject</string>
+
+    <string name="parse_client_id">qoob_client_key_JV4SqnQsnuoQ</string>
+    <string name="parse_app_id">com.qoob.backend</string>
+    <string name="parse_server_url">https://qoob-backend.herokuapp.com/api</string>
+</resources>
